@@ -1,0 +1,10 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+bin
+include
+lib
+lib64
+Emotion_AI.ipynb
+Models.ipynb
+pyvenv.cfg
+saveModels.py
+servingApp.py
